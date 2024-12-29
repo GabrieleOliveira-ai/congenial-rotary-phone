@@ -1,0 +1,37 @@
+/* CSS HEX 
+ --timber-green: #1c3034;
+--powder-ash: #bbc1bf;
+--viking: #5ee0aa;
+--granny-apple: #d3f4e3;
+--turquoise: #4ee2a5;
+--black-haze: #eef1f0;
+--nevada: #5f696c;
+--oslo-gray: #8d9295;
+--corduroy: #5d746c;
+--mantle: #8f9d94;
+
+
+
+Fontes:
+.roboto-regular { font-family: "Roboto", serif; font-weight: 400; font-style: normal; }
+
+.noto-sans-phagspa-regular {
+  font-family: "Noto Sans PhagsPa", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-regular { font-family: "Poppins", serif; font-weight: 400; font-style: normal; }
+
+
+*/
+
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+header nav#navegacao{
+  background-color: #4ee2a5;
+  
